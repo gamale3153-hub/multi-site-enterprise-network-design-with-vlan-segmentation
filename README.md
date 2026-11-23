@@ -15,7 +15,6 @@ Cisco Packet Tracer, Cisco routers and switches, VLAN segmentation, WAN serial c
 
 ## Project file
 
-Open `northstar-services-network.pkt` with Cisco Packet Tracer.
+Open `Multi-Site Enterprise Network Design with VLAN Segmentation.pkt` with Cisco Packet Tracer.
 
 > This repository contains the simulation file. Verify addressing, routing, and connectivity in Packet Tracer before presenting those items as tested outcomes.
-
